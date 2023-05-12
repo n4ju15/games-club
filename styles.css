@@ -34,6 +34,21 @@ p {
     color: #FFFFFF;
 }
 
+.contato {
+    margin-left: 50rem;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    width: 366px;
+    height: 52px;
+    background: #40BB15;
+    border-radius: 5px;
+    font-style: bold;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 22px;
+    text-align: center;
+}
+
 input {
     display: block;
     background: #F9F9F9;
