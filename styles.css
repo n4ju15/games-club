@@ -66,6 +66,8 @@ form {
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: 10px;
+    opacity: 0;
+    transition: opacity 1s;
 }
 
 button {
@@ -85,4 +87,8 @@ button:hover {
 
 .voltar {
     background-color: gray;
+}
+
+div {
+    transition: opacity 1s;
 }
