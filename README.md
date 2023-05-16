@@ -6,9 +6,9 @@ Projeto desenvolvido em HTML,CSS e Java Script na semana Você Programador do Ro
 
 ### Versão para Desktop
 
-![screenshot](./assets/)
+![screenshot](./assets/projeto-desktop-1.png)
 
-![screenshot](./assets/)
+![screenshot](./assets/projeto-desktop-2.png)
 
 ### Versão para Mobile
 
