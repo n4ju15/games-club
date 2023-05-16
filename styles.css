@@ -112,3 +112,20 @@ button:hover {
 div {
     transition: opacity 1s;
 }
+
+@media screen and (max-width: 900px) {
+    img {
+        width: 100%;
+    }
+
+    h1 {
+        font-weight: 700;
+        font-size: 50px;
+    }
+    
+    p {
+        text-align: justify;
+        font-weight: 600;
+        font-size: 24px;
+    }
+}
