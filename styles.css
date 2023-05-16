@@ -35,11 +35,14 @@ p {
 }
 
 .contato {
-    margin-left: 50rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 10px;
     margin-bottom: 30px;
     width: 366px;
     height: 52px;
+    line-height: 52px;
     background: #40BB15;
     border-radius: 5px;
     font-style: bold;
