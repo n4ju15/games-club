@@ -13,11 +13,11 @@ Projeto desenvolvido em HTML,CSS e Java Script na semana Você Programador do Ro
 ### Versão para Mobile
 
 <div>
-    <img width="250px" height="500px" title="projeto-mobile" src="./assets//>
+    <img width="250px" height="500px" title="projeto-mobile" src="./assets/mobile2.png/>
 </div>
 
 <div>
-    <img width="250px" height="500px" title="projeto-mobile" src="./assets//>
+    <img width="250px" height="500px" title="projeto-mobile" src="./assets/mobile1.png/>
 </div>
 
 ## Tecnologias
