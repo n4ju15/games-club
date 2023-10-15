@@ -4,14 +4,14 @@ Projeto desenvolvido em HTML,CSS e Java Script na semana Você Programador do Ro
 
 🔗 [Click here to access](https://n4ju15.github.io/games-club/)
 
-### Versão para Desktop
+## Versão para Desktop
 
 ![screenshot](./assets/projeto-desktop-1.png)
 
 ### Versão para Mobile
 
-<div>
-    <img width="250px" height="500px" title="projeto-mobile" src="./assets/mobile.png/>
+<div align="center">
+<img src="./assets/mobile.png"  width="200" height="400">
 </div>
 
 ## Tecnologias
