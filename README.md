@@ -8,7 +8,7 @@ Projeto desenvolvido em HTML,CSS e Java Script na semana Você Programador do Ro
 
 ![screenshot](./assets/projeto-desktop-1.png)
 
-### Versão para Mobile
+## Versão para Mobile
 
 <div align="center">
 <img src="./assets/mobile.png"  width="200" height="400">
